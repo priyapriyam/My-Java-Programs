@@ -1,0 +1,13 @@
+public class Anuradha
+
+{
+
+     public static void main(String{[]arys)
+{
+     int y=20
+     for int x=10; x>=0; y++
+}
+
+     x++;
+     System.out.println(y);
+}
